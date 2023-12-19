@@ -3,7 +3,7 @@ Angular frontend service for todo application
 
 
 # project setup
-`git clone https://github.com/ireshamadhu1995/todo-frontend.git`
+`git clone https://github.com/ireshamadhu1995/todofrontend-angular`
 
 `npm install`
 
